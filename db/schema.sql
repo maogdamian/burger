@@ -1,11 +1,7 @@
 -- Database Creation
-<<<<<<< HEAD
-USE mggrlalx5rrgjd7k;
-=======
-CREATE DATABASE burgers_db;
+CREATE DATABASE burger_db;
 
-USE burgers_db;
->>>>>>> 55388b35a4485820b4d4b51863de1407e462443e
+USE burger_db;
 
 
 -- Table Creation
